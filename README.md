@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Junaid-Al-Amin
+- 👋 Hi, I’m Junaid Al Amin
 - 👀 I’m interested in Web Development and Designing
 - 🌱 I’m currently learning IT
 - 📫 How to reach me juanaidalamin@gmail.com
