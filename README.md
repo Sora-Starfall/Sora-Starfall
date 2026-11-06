@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Junaid Al Amin
+- 👋 Hi, I’m sora Starfall
 - 👀 I’m interested in Web Development and Designing
 - 🌱 I’m currently learning IT
-- 📫 How to reach me juanaidalamin@gmail.com
 - 😄 Pronouns: He/Him
 
 
